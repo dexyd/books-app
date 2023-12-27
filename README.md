@@ -8,7 +8,7 @@ Run "npm run dev" to start Express backend server on port "5555".
 
 Open new Terminal and run "cd frontend".
 
-Run "npm i" to install independences.
+Run "npm i" to install dependences.
 
 Run "npm run dev" to start "Vite + React" frontend.
 
